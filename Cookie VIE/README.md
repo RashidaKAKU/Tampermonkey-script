@@ -2,9 +2,11 @@
 <blockquote>
 	<p>作者：Rashida <br />
         GitHub主页 
-		<a href="https://github.com/RashidaKAKU/">GITHUB</a> <br />
+		<a href="https://github.com/RashidaKAKU">/RashidaKAKU</a> <br />
         项目主页 
 		<a href="https://github.com/RashidaKAKU/Tampermonkey-script">Tampermonkey-script</a> <br />
+		GreasyFork主页 
+		<a href="https://greasyfork.org/zh-CN/scripts/464422-cookie-vie">Cookie VIE</a> <br />
         如果需要自定义，可去 GitHub 项目找注释版代码。 <br />
 	</p>
 </blockquote>
