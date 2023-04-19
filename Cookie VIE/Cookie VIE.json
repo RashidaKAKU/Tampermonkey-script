@@ -5,6 +5,7 @@
 // @description  查看当前页面的 cookie 值并复制到剪贴板
 // @author       Rashida
 // @match        *://*/*
+// @icon         https://github.com/RashidaKAKU/Tampermonkey-script/blob/main/Cookie%20VIE/cookie.png
 // @grant        GM_setClipboard
 // @license      MIT
 // ==/UserScript==
